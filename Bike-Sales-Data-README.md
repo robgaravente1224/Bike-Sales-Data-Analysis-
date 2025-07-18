@@ -44,14 +44,6 @@ Bike_Sales_Data.xlsx - Working Sheet.csv: The cleaned and processed data, includ
 
 Bike_Sales_Data.xlsx - Dashboard.csv: The CSV export of the Excel dashboard, illustrating the visualizations and key metrics. (Note: The interactive nature of the Excel dashboard is best experienced by opening the original .xlsx file if available).
 
-How to Use (or View)
-Clone the Repository:
-
-git clone https://github.com/your-username/bike-sales-analysis.git
-
-Navigate to the Project Directory:
-
-cd bike-sales-analysis
 
 Open the Excel Files:
 
